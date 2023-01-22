@@ -6,6 +6,11 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      display: ["Montserrat", "sans-serif"],
+      bodyEn: ["Oswald", "sans-serif"],
+      bodyKh: ["Kantumruy", "sans-serif"],
+    },
   },
   plugins: [require("daisyui")],
   daisyui: {

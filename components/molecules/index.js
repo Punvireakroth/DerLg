@@ -1,3 +1,3 @@
-import CoverCard from "./CoverCard";
+import TestButton from "./TestButton";
 
-export { CoverCard };
+export { TestButton };
